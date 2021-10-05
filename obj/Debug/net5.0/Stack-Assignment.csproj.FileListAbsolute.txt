@@ -1,0 +1,16 @@
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\bin\Debug\net5.0\Stack-Assignment.exe
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\bin\Debug\net5.0\Stack-Assignment.deps.json
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\bin\Debug\net5.0\Stack-Assignment.runtimeconfig.json
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\bin\Debug\net5.0\Stack-Assignment.runtimeconfig.dev.json
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\bin\Debug\net5.0\Stack-Assignment.dll
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\bin\Debug\net5.0\ref\Stack-Assignment.dll
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\bin\Debug\net5.0\Stack-Assignment.pdb
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.csproj.AssemblyReference.cache
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.AssemblyInfoInputs.cache
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.AssemblyInfo.cs
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.csproj.CoreCompileInputs.cache
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.dll
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\ref\Stack-Assignment.dll
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.pdb
+D:\HocTap\Năm2\HK1nam2\DataStructureAndAlgorithm\ThucHanh\LopLyThuyet\Tuan5\Stack-Assignment\obj\Debug\net5.0\Stack-Assignment.genruntimeconfig.cache
