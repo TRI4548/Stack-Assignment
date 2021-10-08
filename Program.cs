@@ -20,7 +20,7 @@ namespace Stack_Assignment
             string chuoi = tk[0];
             var capacity = tk.Length;
             var x = TaoChuoiTu(tk);
-            while(capacity != 0)
+            while (capacity != 0)
             {
                 var i = x.Pop();
                 Console.Write($"{i} ");
@@ -129,30 +129,34 @@ namespace Stack_Assignment
         }
         #endregion        
         #region Infix to Postfix 
-        public static string infixToPostfix(string expn) 
+        public static string infixToPostfix(string expn)
         {
             Stack<char> stak = new Stack<char>();
             string output = "";
             char temp;
-            foreach(char ch in expn)
+            foreach (char ch in expn)
             {
-                if(ch >= '0' && ch <= '9')
+                if (ch >= '0' && ch <= '9')
                 {
                     output += ch;
                 }
                 else
                 {
-                    switch(ch)
+                    switch (ch)
                     {
-                        case '+': case '-': case '*': case '/': case '%':
-                            if(stak.Count == 0)
+                        case '+':
+                        case '-':
+                        case '*':
+                        case '/':
+                        case '%':
+                            if (stak.Count == 0)
                             {
                                 stak.Push(ch);
                                 output += "";
                             }
-                            else if(stak.Count != 0)
+                            else if (stak.Count != 0)
                             {
-                                if(precedence(stak.Peek()) >= precedence(ch))
+                                if (precedence(stak.Peek()) >= precedence(ch))
                                 {
                                     output += stak.Pop();
                                     stak.Push(ch);
@@ -162,22 +166,22 @@ namespace Stack_Assignment
                                     stak.Push(ch);
                                 }
                             }
-                        break;
+                            break;
 
                         case '(':
                             stak.Push(ch);
-                        break;
+                            break;
 
                         case ')':
                             while (stak.Count != 0 && (temp = stak.Pop()) != '(')
                             {
-                                output = output + " " + temp + " ";
+                                output = output + temp;
                             }
-                        break;
+                            break;
                     }
                 }
             }
-            while(stak.Count != 0)
+            while (stak.Count != 0)
             {
                 output += stak.Pop();
             }
@@ -187,12 +191,13 @@ namespace Stack_Assignment
         {
             switch (ch)
             {
-                case '+': case '-':
-                return 12;
-                case '*': case '/': case '%':
-                return 13;
-                case '(': case ')':
-                return 17;
+                case '+':
+                case '-':
+                    return 12;
+                case '*':
+                case '/':
+                case '%':
+                    return 13;
             }
             return -1;
         }
